@@ -22,3 +22,4 @@ while True:
     cv2.imshow('video', frame)
 cap.release()
 cv2.destroyAllWindows()
+#coucou juste un test
